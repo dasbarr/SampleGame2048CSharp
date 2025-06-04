@@ -1,0 +1,3 @@
+[submodule "csharp_unity/ThirdParty/DOTween"]
+	path = csharp_unity/ThirdParty/DOTween
+	url = https://github.com/Demigiant/dotween

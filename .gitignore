@@ -1,0 +1,16 @@
+csharp_unity/.idea/
+csharp_unity/bin/
+csharp_unity/Library/
+csharp_unity/Logs/
+csharp_unity/obj/
+csharp_unity/UserSettings/
+csharp_unity/Temp/
+csharp_unity/Assets/DOTween/
+csharp_unity/Assets/DOTween.meta
+csharp_unity/Assets/Resources/DOTweenSettings.asset
+csharp_unity/Assets/Resources/DOTweenSettings.asset.meta
+csharp_unity/Assets/Plugins/
+csharp_unity/Assets/Plugins.meta
+*.csproj
+*.sln
+*.user

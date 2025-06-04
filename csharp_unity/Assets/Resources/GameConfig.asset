@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3d013f10304994aa3081f0778c9c9b, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  _defaultLanguageId: 1
+  _gameBoardSize: 4
+  _tileMovementDuration: 0.6
+  _numInitialRandomTiles: 2
+  _numRandomTilesEachTurn: 2
+  _numberOnNewTile: 2
+  _numberOnWinTile: 2048
+  _emptyTileColor: {r: 1, g: 1, b: 1, a: 1}
+  _tileColors:
+  - {r: 0.933, g: 0.894, b: 0.855, a: 1}
+  - {r: 0.929, g: 0.878, b: 0.784, a: 1}
+  - {r: 0.949, g: 0.694, b: 0.475, a: 1}
+  - {r: 0.961, g: 0.584, b: 0.388, a: 1}
+  - {r: 0.965, g: 0.486, b: 0.373, a: 1}
+  - {r: 0.965, g: 0.369, b: 0.231, a: 1}
+  - {r: 0.929, g: 0.812, b: 0.447, a: 1}
+  - {r: 0.929, g: 0.800, b: 0.380, a: 1}
+  - {r: 0.929, g: 0.784, b: 0.314, a: 1}
+  - {r: 0.929, g: 0.773, b: 0.247, a: 1}
+  - {r: 0.929, g: 0.761, b: 0.180, a: 1}
+  _smallNumberLabelColor: {r: 0.467, g: 0.431, b: 0.396, a: 1}
+  _largeNumberLabelColor: {r: 0.973, g: 0.957, b: 0.945, a: 1}
