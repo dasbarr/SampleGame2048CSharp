@@ -2,7 +2,7 @@
 
 Code sample - clone of "2048" game written in C#/Unity.
 
-![](Screenshot.jpg? "")
+![](Screenshot.jpg "")
 
 ## Setup
 
