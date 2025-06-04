@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 256
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4006d9ffa644e9b4f84dc38e8cac97b6, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3817a6505480e3f4f8a29a7c8f287b7f, type: 3}
+  - {fileID: 21300000, guid: 6303d290dfae2af4498d639546e109d9, type: 3}
+  - {fileID: 21300000, guid: 22bd7923777267e4287c532081917913, type: 3}
+  - {fileID: 21300000, guid: 1767f5e3f7c33e94fb63595cafc1ea09, type: 3}
+  - {fileID: 21300000, guid: 22764ce603eca154a8f09bf827cfbcfa, type: 3}
+  - {fileID: 21300000, guid: 180faad8da8b72a4db997b38364a2d80, type: 3}
+  - {fileID: 21300000, guid: d328e0d9230c11a4fb55ec54215b5e72, type: 3}
+  - {fileID: 21300000, guid: bf0ee04d306862d498e54e642c399a50, type: 3}
+  - {fileID: 21300000, guid: a92a95cefc16aed49841785a77798c47, type: 3}
+  - {fileID: 21300000, guid: 3606d54ffe6fb3347b02a5f37c9c6aa0, type: 3}
+  - {fileID: 21300000, guid: 977ac2effff68d547af45e448f6be8ab, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ru
+  - BigRoundedRectangleBorder
+  - SmallRoundedRectangleBorder
+  - DropdownArrow
+  - WindowTitleBackground
+  - gb
+  - TileInner
+  - BigRoundedRectangleInner
+  - cz
+  - TileBorder
+  - SmallRoundedRectangleInner
+  m_RenderDataMap: {}
+  m_Tag: UISpriteAtlas
+  m_IsVariant: 0

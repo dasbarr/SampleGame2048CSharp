@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RulesControlsWindow_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 6a3d8b3e1b96f3a408e6e472f905748d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8476123136
+    m_Localized: "Pravidla a ovl\xE1d\xE1n\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108260380672
+    m_Localized: "Pomoc\xED kl\xE1ves W, A, S, D nebo \u0161ipek m\u016F\u017Eete
+      p\u0159esouvat bu\u0148ky"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1142888554496
+    m_Localized: "Dv\u011B bu\u0148ky se stejn\xFDm \u010D\xEDslem budou poskl\xE1d\xE1ny
+      do jedn\xE9 bu\u0148ky s dvojn\xE1sobn\xFDm \u010D\xEDslem"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159745462272
+    m_Localized: "Zkuste se dostat k \u010D\xEDslu {0}!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2695171104768
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

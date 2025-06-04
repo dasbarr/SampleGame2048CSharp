@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 934bcb435b4f7384a8e371541e03db5b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1459573088542720
+    m_Localized: "Pravidla a ovl\xE1d\xE1n\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2139220303872
+    m_Localized: "Nov\xE1 hra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507536632504320
+    m_Localized: "Nejvy\u0161\u0161\xED sk\xF3re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507506722922496
+    m_Localized: "Aktu\xE1ln\xED sk\xF3re"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1538089645727744
+    m_Localized: Zapnout bota
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1538588348473344
+    m_Localized: Vypnout bota
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

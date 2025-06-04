@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RulesControlsWindow_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6a3d8b3e1b96f3a408e6e472f905748d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8476123136
+    m_Localized: Rules & controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1108260380672
+    m_Localized: Use W, A, S, D or arrow keys to move tiles
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159745462272
+    m_Localized: Try to get to the number {0}!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1142888554496
+    m_Localized: Two tiles with the same number will stack into one with twice the
+      number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2695171104768
+    m_Localized: OK
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
